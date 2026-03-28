@@ -1,0 +1,26 @@
+🏆 Esportes da Sorte: Baseball Cards - Edição Pernambucano
+Este repositório contém o Motor de Dados (Back-end) desenvolvido em Python para o Hackathon Esportes da Sorte. O projeto transforma estatísticas do futebol pernambucano em cards interativos inspirados no design clássico de colecionáveis de baseball.
+
+🚀 Sobre o Código
+O script em Python atua como um simulador dinâmico de rodadas. Ele gera um JSON estruturado que alimenta a interface do usuário (Front-end), garantindo que cada acesso apresente dados atualizados e insights personalizados.
+
+🧠 Lógica de Funcionamento
+Dicionário de Elencos: Armazena dados reais do Trio de Ferro (Sport, Náutico e Santa Cruz).
+
+Motor de Randomização: Simula a flutuação de performance dos jogadores e das Odds da Esportes da Sorte em tempo real.
+
+Conversão JSON: Transforma dicionários Python no formato padrão de comunicação web (JSON), facilitando a integração com React, Flutter ou Vue.
+
+🏁 Como Rodar o Projeto
+Abra o arquivo gerador_json_pernambucano.ipynb no Google Colab.
+
+Execute a célula principal para carregar a função gerar_api_mock_pernambucano().
+
+O console exibirá o JSON pronto. Para integração via link público, utilize o túnel ngrok (instruções dentro do código).
+
+📈 Impacto de Negócio
+Retenção: Gamificação através de cards colecionáveis digitais.
+
+Conversão: Atalho direto para aposta (CTA) baseado em estatísticas de performance.
+
+Regionalismo: Foco total no mercado de Pernambuco, aumentando o engajamento local.
